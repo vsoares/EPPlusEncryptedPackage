@@ -1,0 +1,9 @@
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\bin\Debug\EPPlusSimulation.exe.config
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\bin\Debug\EPPlusSimulation.exe
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\bin\Debug\EPPlusSimulation.pdb
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\obj\Debug\EPPlusSimulation.csprojResolveAssemblyReference.cache
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\obj\Debug\EPPlusSimulation.exe
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\obj\Debug\EPPlusSimulation.pdb
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\bin\Debug\EPPlus.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\bin\Debug\EPPlus.pdb
+C:\Vitor\Labs\EPPlus\Source\EPPlusSimulation\bin\Debug\EPPlus.xml

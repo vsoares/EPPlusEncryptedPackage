@@ -1,0 +1,15 @@
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\Workbooks\FormulaTest.xlsx
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\TestStart.orderedtest
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\EPPlusTest.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\EPPlusTest.pdb
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\EPPlus.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\Rhino.Mocks.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\EPPlus.pdb
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\EPPlus.xml
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\bin\Debug\Rhino.Mocks.xml
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\obj\Debug\EPPlusTest.csprojResolveAssemblyReference.cache
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\obj\Debug\EPPlusTest.Properties.Resources.resources
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\obj\Debug\EPPlusTest.csproj.GenerateResource.Cache
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\obj\Debug\EPPlusTest.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlusTest\obj\Debug\EPPlusTest.pdb

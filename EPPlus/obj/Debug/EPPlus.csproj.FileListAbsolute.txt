@@ -1,0 +1,6 @@
+C:\Vitor\Labs\EPPlus\Source\EPPlus\bin\Debug\EPPlus.XML
+C:\Vitor\Labs\EPPlus\Source\EPPlus\bin\Debug\EPPlus.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlus\bin\Debug\EPPlus.pdb
+C:\Vitor\Labs\EPPlus\Source\EPPlus\obj\Debug\EPPlus.csprojResolveAssemblyReference.cache
+C:\Vitor\Labs\EPPlus\Source\EPPlus\obj\Debug\EPPlus.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlus\obj\Debug\EPPlus.pdb

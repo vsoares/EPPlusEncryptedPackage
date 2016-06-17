@@ -1,0 +1,9 @@
+C:\Vitor\Labs\EPPlus\Source\SampleApp\bin\Debug\EPPlusSamples.exe.config
+C:\Vitor\Labs\EPPlus\Source\SampleApp\bin\Debug\EPPlusSamples.exe
+C:\Vitor\Labs\EPPlus\Source\SampleApp\bin\Debug\EPPlusSamples.pdb
+C:\Vitor\Labs\EPPlus\Source\SampleApp\bin\Debug\EPPlus.dll
+C:\Vitor\Labs\EPPlus\Source\SampleApp\bin\Debug\EPPlus.pdb
+C:\Vitor\Labs\EPPlus\Source\SampleApp\bin\Debug\EPPlus.xml
+C:\Vitor\Labs\EPPlus\Source\SampleApp\obj\Debug\EPPlusSamples.csprojResolveAssemblyReference.cache
+C:\Vitor\Labs\EPPlus\Source\SampleApp\obj\Debug\EPPlusSamples.exe
+C:\Vitor\Labs\EPPlus\Source\SampleApp\obj\Debug\EPPlusSamples.pdb

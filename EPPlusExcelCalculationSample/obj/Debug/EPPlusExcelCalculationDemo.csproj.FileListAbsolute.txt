@@ -1,0 +1,13 @@
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\bin\Debug\EPPlusExcelFormDemo.exe.config
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\bin\Debug\EPPlusExcelFormDemo.exe
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\bin\Debug\EPPlusExcelFormDemo.pdb
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\bin\Debug\EPPlus.dll
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\bin\Debug\EPPlus.pdb
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\bin\Debug\EPPlus.xml
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\obj\Debug\EPPlusExcelCalculationDemo.csprojResolveAssemblyReference.cache
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\obj\Debug\EPPlusExcelFormDemo.ExcelForm.resources
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\obj\Debug\EPPlusExcelFormDemo.frmFunctions.resources
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\obj\Debug\EPPlusExcelFormDemo.Properties.Resources.resources
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\obj\Debug\EPPlusExcelCalculationDemo.csproj.GenerateResource.Cache
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\obj\Debug\EPPlusExcelFormDemo.exe
+C:\Vitor\Labs\EPPlus\Source\EPPlusExcelCalculationSample\obj\Debug\EPPlusExcelFormDemo.pdb
